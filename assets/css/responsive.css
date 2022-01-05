@@ -10,7 +10,6 @@
   #particles {
     position: absolute;
     top: 200px;
-    transform: scale(1);
   }
   .has-secondary {
     margin: auto;
@@ -29,7 +28,6 @@
   #particles {
     position: absolute;
     top: 150px;
-    transform: scale(1);
   } 
   .xl-padding{
     padding: 40px 0;
@@ -63,7 +61,6 @@
   #particles {
     position: absolute;
     top: 200px;
-    transform: scale(2);
   }
   .xl-padding{
     padding: 30px 0;
